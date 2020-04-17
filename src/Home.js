@@ -25,10 +25,14 @@ export function Home() {
 			<p>
 				To login as user or admin, use the following usernames and password:
 			</p>
-			<p>Username: admin, password: test1</p>
-			<p>Username: user1, password: test123</p>
-			<p>Username: user2, password: test123</p>
-			<p>Username: user3, password: test123</p>
+			<p>Username: admin, password: code</p>
+			<p>Username: user1, password: code1</p>
+			<p>Username: user2, password: code2</p>
+			<p>Username: user3, password: code3</p>
+			<p>
+				<b>This is Ninas personal startcode project</b>
+				<br />I followed the instructions from the starcode.
+			</p>
 		</div>
 	);
 }
